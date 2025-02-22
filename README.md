@@ -35,12 +35,12 @@ Inside `index.html`:
 
 
 ### Tips
-- Remember to update the closing tags when changing an element.
-- Push a commit for each task completed. Include a meaningfull commit message.
-- Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
-- Get used to using your browser's developer tools now. For now, become familiar with: 
-    - Using inspector mode to inspect elements.
-- If you get stuck, please remember that you have various resources available to you.
+[x] Remember to update the closing tags when changing an element.
+[x] Push a commit for each task completed. Include a meaningfull commit message.
+[x] Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
+[x] Get used to using your browser's developer tools now. For now, become familiar with: 
+   [x] Using inspector mode to inspect elements.
+[x] If you get stuck, please remember that you have various resources available to you.
 
 
 ### Submitting Your Work
